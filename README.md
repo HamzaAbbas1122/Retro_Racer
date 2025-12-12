@@ -55,7 +55,6 @@ This operation is efficiently handled using the `REP MOVSB` string instruction o
 ## 🤝 Team
 
 - Zunaira Tahir  
-- Machinery IS Life
 
 ---
 
